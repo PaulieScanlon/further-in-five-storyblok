@@ -1,0 +1,31 @@
+{
+  "name": "further-in-five-storyblok",
+  "version": "1.0.0",
+  "description": "Test Repo for Further In Five - Storyblok",
+  "main": "index.js",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "serve": "gatsby serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulieScanlon/further-in-five-storyblok.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulieScanlon/further-in-five-storyblok/issues"
+  },
+  "homepage": "https://github.com/PaulieScanlon/further-in-five-storyblok#readme",
+  "dependencies": {
+    "gatsby": "^4.17.0",
+    "gatsby-source-filesystem": "^4.17.0",
+    "gatsby-source-storyblok": "^4.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
